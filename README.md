@@ -1,16 +1,12 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Thomas Bruce.</h1>
 
-<!--
-**thomasbr404/thomasbr404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm currently working on a Go/Gtk3 Discord client and some private projects to be made public in the future.
+- I'm currently learning Rust, Go, and the FabricAPI
+- I'm currently looking to collaborate on any rhythm game parsing project that looks to be interesting.
+- I'm looking for help with anything really, my code is open to any suggestions.
+- Ask me about python sockets.
+- How to reach me: Matrix at @xhsted:matrix.org
+- Pronouns: He/Him
+- Fun fact: I study languages.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Thomas' github stats](https://github-readme-stats.vercel.app/api?username=thomasbr404)
