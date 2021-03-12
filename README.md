@@ -5,7 +5,6 @@
 - I'm currently looking to collaborate on any rhythm game parsing project that looks to be interesting.
 - I'm looking for help with anything really, my code is open to any suggestions.
 - Ask me about python sockets.
-- How to reach me: Matrix at @xhsted:matrix.org
 - Pronouns: He/Him
 - Fun fact: I study languages.
 
